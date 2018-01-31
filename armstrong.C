@@ -13,9 +13,9 @@ original/=10;
 }
 if(result==num)
 {
-printf("it is a armstrong number");
+printf("\nit is a armstrong number");
 }
 else
-printf("it is not a armstrong number");
+printf("\nit is not a armstrong number");
 return 0;
 }
